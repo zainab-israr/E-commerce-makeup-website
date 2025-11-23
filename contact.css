@@ -1,0 +1,99 @@
+
+.c{
+  
+
+font: size 40px;
+font-weight: 400;
+height: 40px;
+letter-spacing: 4px;
+ text-align: center;
+ margin-top: 150px;
+  margin-left: -200px;
+font-family: Georgia, serif;
+color: black;
+}
+.c1{
+  
+    margin-top: -160px;
+    margin: left 100px;
+    height: 600px;
+width: 400px;
+ background-color: rgb(243, 240, 240);
+font-size: 19px;
+font-family: Georgia, serif;
+
+}
+
+  
+.p{
+    font-size: small;
+    text-align: center;
+}
+.p1{
+   margin-left: 434px;
+  
+}
+
+  .b {
+      background-color:black;
+      border: none;
+      color: white;
+      padding: 16px 32px;
+  
+      margin: 50px 40px;
+      margin-left: 400px;
+     
+    }
+
+   
+    .c2{
+      margin-left: 450px;
+      margin-top: -400px;
+      max-width: 900px;
+      padding: 30px 22px 20px 30px;
+      font: 14px Arial, Helvetica, sans-serif;
+    }
+    
+    .c2 label{
+      display: block;
+      margin: 0px 0px 15px 0px;
+    }
+    .c2 label > span{
+      width: 100px;
+      font-weight: bold;
+      float: left;
+      padding-top: 8px;
+      padding-right: 5px;
+    }
+  
+    .c2 .f2{
+      width: 40px;
+      text-align: center;
+    }
+    .c2 input.f2, .c2 .d{
+      width: 48%;	
+    }
+    .c2 input.f2, 
+    .c2.f2, 
+    .c2 .f3, 
+     .c2 .d{
+      box-sizing: border-box;
+     
+      border: 1px solid #1f0202;
+     
+      padding: 9px;
+      outline: none;
+    }
+    .c2 .f2:focus, 
+    .c2.f2:focus, 
+    .c2.f3:focus,  
+    .c2.d:focus{
+      border: 1px solid rgb(204, 0, 0);
+    }
+
+    .c2 input.f3{
+      height:500px;
+      width: 200px;
+      margin-left: -50px;
+    }
+ 
