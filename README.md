@@ -3,9 +3,12 @@
 A **clone of ELF Cosmetics website**, built as a full-stack e-commerce project.  
 This project showcases a makeup store with products, categories, cart, and checkout functionality.
 
+
 ---
 
 ## **Features**
+
+
 
 - Browse and search for makeup products  
 - Product categories: Lipstick, Lipgloss, Lipbalm, Lipliner, etc.  
@@ -17,21 +20,16 @@ This project showcases a makeup store with products, categories, cart, and check
 
 ---
 
-## **Screenshots**
-
-![Homepage](Images/Homepage.png)  
-![Product Page](Images/ProductPage.png)  
-![Cart](Images/Cart.png)  
-
-> Replace the `Images/...` links with your actual screenshots.
-
----
-
 ## **Tech Stack**
+
 
 - **Frontend:** HTML, CSS, Bootstrap 5, JavaScript  
 - **Backend:** PHP  
-- **Database:** (if used) MySQL or similar  
+- **Database:** MySQL
 - **Tools:** Visual Studio Code  
 
----
+
+
+![Homepage](capture.jpg)  
+
+
