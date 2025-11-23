@@ -28,8 +28,5 @@ This project showcases a makeup store with products, categories, cart, and check
 - **Database:** MySQL
 - **Tools:** Visual Studio Code  
 
-
-
-![Homepage](capture.jpg)  
-
-
+<!-- HTML -->
+<img src="Capture.JPG" alt="Homepage" style="border-radius: 1500px;">
