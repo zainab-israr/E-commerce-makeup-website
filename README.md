@@ -1,6 +1,6 @@
 # E-commerce Makeup Website
 
-A **clone of ELF Cosmetics website**, built as a full-stack e-commerce project.  
+A **clone of ELF Cosmetics website**, built as a full-stack e-commerce project in 2022 as Semester Project.  
 This project showcases a makeup store with products, categories, cart, and checkout functionality.
 
 
